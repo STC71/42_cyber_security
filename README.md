@@ -4,7 +4,7 @@ Esta carpeta agrupa los proyectos del currículo de Ciberseguridad de 42 School,
 
 ## Proyectos
 
-### ❄️ [Snow Crash](./snow-crash/) - Introducción a Ciberseguridad
+### [❄️ Snow Crash](https://github.com/STC71/42_snow-crash) - Introducción a Ciberseguridad
 Proyecto estilo Capture The Flag (CTF) para descubrir debilidades comunes del sistema desde la base, desarrollando pensamiento lógico para explotar vulnerabilidades sin margen de error.
 
 **Características destacadas:**
